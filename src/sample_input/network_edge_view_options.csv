@@ -1,0 +1,197 @@
+﻿entity_1,entity_2,edge_color,edge_label
+TBG,Brain,red,Adjacent
+TSH,TG_gross_histopath,red,Adjacent
+TSH,TPO,red,Adjacent
+TSH,NIS,red,Adjacent
+TPO,Thyroglobulin,red,Adjacent
+NIS,Thyroglobulin,red,Adjacent
+Serum Distributor Proteins,Brain,red,Adjacent
+Serum Distributor Proteins,Cholesterol,red,Adjacent
+Serum Distributor Proteins,Visual,red,Adjacent
+TBG,Brain,red,Adjacent
+TBG,Cholesterol,red,Adjacent
+TBG,Visual,red,Adjacent
+TTR,Brain,red,Adjacent
+TTR,Cholesterol,red,Adjacent
+TTR,Visual,red,Adjacent
+Albumin,Brain,red,Adjacent
+Albumin,Cholesterol,red,Adjacent
+Albumin,Visual,red,Adjacent
+DIO,Brain,red,Adjacent
+DIO,Cholesterol,red,Adjacent
+DIO,Visual,red,Adjacent
+TH Membrane Transport Proteins,Brain,red,Adjacent
+TH Membrane Transport Proteins,Cholesterol,red,Adjacent
+TH Membrane Transport Proteins,Visual,red,Adjacent
+MCT8,Brain,red,Adjacent
+MCT8,Cholesterol,red,Adjacent
+MCT8,Visual,red,Adjacent
+MCT10,Brain,red,Adjacent
+MCT10,Cholesterol,red,Adjacent
+MCT10,Visual,red,Adjacent
+OATP1C1,Brain,red,Adjacent
+OATP1C1,Cholesterol,red,Adjacent
+OATP1C1,Visual,red,Adjacent
+OATP1A4,Brain,red,Adjacent
+OATP1A4,Cholesterol,red,Adjacent
+OATP1A4,Visual,red,Adjacent
+MDR1,Brain,red,Adjacent
+MDR1,Cholesterol,red,Adjacent
+MDR1,Visual,red,Adjacent
+LAT1,Brain,red,Adjacent
+LAT1,Cholesterol,red,Adjacent
+LAT1,Visual,red,Adjacent
+LAT2,Brain,red,Adjacent
+LAT2,Cholesterol,red,Adjacent
+LAT2,Visual,red,Adjacent
+Thyroglobulin,Brain,red,Adjacent
+Thyroglobulin,Cholesterol,red,Adjacent
+Thyroglobulin,Visual,red,Adjacent
+Brain,Cognitive_behavioral,red,Adjacent
+Cholesterol,Cardiovascular,red,Adjacent
+Sulfation_Glucuronidation,T4,red,Adjacent
+Sulfation_Glucuronidation,T3,red,Adjacent
+T3,TSH,red,Adjacent
+T3,TR,red,Adjacent
+T4,TR,red,Adjacent
+TSH,TG_gross_histopath,red,Adjacent
+T3,T4,red,Adjacent
+TSH,T4,red,Adjacent
+Cholesterol,T3,red,Adjacent
+T4,Sulfation_Glucuronidation,red,Adjacent
+T4,Serum Distributor Proteins,red,Adjacent
+T3,Other_MT,red,Adjacent
+T4,Other_MT,red,Adjacent
+T3,OATP1C1,red,Adjacent
+T4,OATP1C1,red,Adjacent
+T3,NRs,red,Adjacent
+T3,TH Membrane Transport Proteins,red,Adjacent
+T4,TH Membrane Transport Proteins,red,Adjacent
+T3,MCT8,red,Adjacent
+T4,MCT8,red,Adjacent
+T4,MCT10,red,Adjacent
+T3,Fish_length,red,Adjacent
+T3,DIO,red,Adjacent
+T4,DIO,red,Adjacent
+T4,Cholesterol,red,Adjacent
+T3,Cardiovascular,red,Adjacent
+T4,Brain,red,Adjacent
+T4,Albumin,red,Adjacent
+Serum Distributor Proteins,TTR,red,Adjacent
+Serum Distributor Proteins,TBG,red,Adjacent
+Serum Distributor Proteins,T3,red,Adjacent
+Serum Distributor Proteins,Other_THBP,red,Adjacent
+TH Membrane Transport Proteins,Other_MT,red,Adjacent
+TH Membrane Transport Proteins,OATP1A4,red,Adjacent
+TH Membrane Transport Proteins,MDR1,red,Adjacent
+TH Membrane Transport Proteins,LAT2,red,Adjacent
+TH Membrane Transport Proteins,LAT1,red,Adjacent
+TTR,TSH,red,Adjacent
+OATP1C1,TR,red,Adjacent
+TBG,TR,red,Adjacent
+TTR,T4,red,Adjacent
+MCT10,T3,red,Adjacent
+TTR,T3,red,Adjacent
+TTR,Other_THBP,red,Adjacent
+LAT1,Other_MT,red,Adjacent
+LAT2,Other_MT,red,Adjacent
+MCT10,Other_MT,red,Adjacent
+MDR1,Other_MT,red,Adjacent
+LAT1,TH Membrane Transport Proteins,red,Adjacent
+MCT8,TH Membrane Transport Proteins,red,Adjacent
+OATP1C1,TH Membrane Transport Proteins,red,Adjacent
+Brain,T4,red,Adjacent
+Cardiovascular,T4,red,Adjacent
+Fish_length,T4,red,Adjacent
+Other_altered_developoment,T4,red,Adjacent
+Brain,Other_altered_developoment,red,Adjacent
+Fish_length,Other_altered_developoment,red,Adjacent
+Other_altered_developoment,Cognitive_behavioral,red,Adjacent
+Cardiovascular,Cholesterol,red,Adjacent
+Visual,Brain,red,Adjacent
+DIO,Other_altered_developoment,blue,Non-Adjacent
+TR,Other_altered_developoment,blue,Non-Adjacent
+TSH,Cognitive_behavioral,blue,Non-Adjacent
+TSH,Thyroglobulin,blue,Non-Adjacent
+TSH,Brain,blue,Non-Adjacent
+TSH,Cholesterol,blue,Non-Adjacent
+TSH,Visual,blue,Non-Adjacent
+TPO,Cognitive_behavioral,blue,Non-Adjacent
+TPO,Brain,blue,Non-Adjacent
+TPO,Cholesterol,blue,Non-Adjacent
+TPO,Cardiovascular,blue,Non-Adjacent
+TPO,Visual,blue,Non-Adjacent
+NIS,Cognitive_behavioral,blue,Non-Adjacent
+NIS,Brain,blue,Non-Adjacent
+NIS,Cholesterol,blue,Non-Adjacent
+NIS,Visual,blue,Non-Adjacent
+NIS,Cardiovascular,blue,Non-Adjacent
+Serum Distributor Proteins,Cognitive_behavioral,blue,Non-Adjacent
+Serum Distributor Proteins,Cardiovascular,blue,Non-Adjacent
+TBG,Cognitive_behavioral,blue,Non-Adjacent
+TBG,Cardiovascular,blue,Non-Adjacent
+TTR,Cognitive_behavioral,blue,Non-Adjacent
+TTR,Cardiovascular,blue,Non-Adjacent
+Albumin,Cognitive_behavioral,blue,Non-Adjacent
+Albumin,Cardiovascular,blue,Non-Adjacent
+DIO,Cognitive_behavioral,blue,Non-Adjacent
+DIO,Cardiovascular,blue,Non-Adjacent
+TH Membrane Transport Proteins,Cognitive_behavioral,blue,Non-Adjacent
+TH Membrane Transport Proteins,Cardiovascular,blue,Non-Adjacent
+MCT8,Cognitive_behavioral,blue,Non-Adjacent
+MCT8,Cardiovascular,blue,Non-Adjacent
+MCT10,Cognitive_behavioral,blue,Non-Adjacent
+MCT10,Cardiovascular,blue,Non-Adjacent
+OATP1A4,Cognitive_behavioral,blue,Non-Adjacent
+OATP1A4,Cardiovascular,blue,Non-Adjacent
+OATP1C1,Cognitive_behavioral,blue,Non-Adjacent
+OATP1C1,Cardiovascular,blue,Non-Adjacent
+MDR1,Cognitive_behavioral,blue,Non-Adjacent
+MDR1,Cardiovascular,blue,Non-Adjacent
+LAT1,Cognitive_behavioral,blue,Non-Adjacent
+LAT1,Cardiovascular,blue,Non-Adjacent
+LAT2,Cognitive_behavioral,blue,Non-Adjacent
+LAT2,Cardiovascular,blue,Non-Adjacent
+Thyroglobulin,Cognitive_behavioral,blue,Non-Adjacent
+Thyroglobulin,Cardiovascular,blue,Non-Adjacent
+TPO,NIS,green,Functionally Related
+Serum Distributor Proteins,TBG,green,Functionally Related
+Serum Distributor Proteins,TTR,green,Functionally Related
+Serum Distributor Proteins,Albumin,green,Functionally Related
+TBG,TTR,green,Functionally Related
+TBG,Albumin,green,Functionally Related
+TTR,Albumin,green,Functionally Related
+DIO,DIO1,green,Functionally Related
+DIO,DIO2,green,Functionally Related
+DIO,DIO3,green,Functionally Related
+DIO1,DIO2,green,Functionally Related
+DIO1,DIO3,green,Functionally Related
+DIO2,DIO3,green,Functionally Related
+TH Membrane Transport Proteins,MCT8,green,Functionally Related
+TH Membrane Transport Proteins,MCT10,green,Functionally Related
+TH Membrane Transport Proteins,OATP1C1,green,Functionally Related
+TH Membrane Transport Proteins,OATP1A4,green,Functionally Related
+TH Membrane Transport Proteins,MDR1,green,Functionally Related
+TH Membrane Transport Proteins,LAT1,green,Functionally Related
+TH Membrane Transport Proteins,LAT2,green,Functionally Related
+MCT8,MCT10,green,Functionally Related
+MCT8,OATP1C1,green,Functionally Related
+MCT8,OATP1A4,green,Functionally Related
+MCT8,MDR1,green,Functionally Related
+MCT8,LAT1,green,Functionally Related
+MCT8,LAT2,green,Functionally Related
+MCT10,OATP1C1,green,Functionally Related
+MCT10,OATP1A4,green,Functionally Related
+MCT10,MDR1,green,Functionally Related
+MCT10,LAT1,green,Functionally Related
+MCT10,LAT2,green,Functionally Related
+OATP1C1,OATP1A4,green,Functionally Related
+OATP1C1,MDR1,green,Functionally Related
+OATP1C1,LAT1,green,Functionally Related
+OATP1C1,LAT2,green,Functionally Related
+OATP1A4,MDR1,green,Functionally Related
+OATP1A4,LAT1,green,Functionally Related
+OATP1A4,LAT2,green,Functionally Related
+MDR1,LAT1,green,Functionally Related
+MDR1,LAT2,green,Functionally Related
+LAT1,LAT2,green,Functionally Related

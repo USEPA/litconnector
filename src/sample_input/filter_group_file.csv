@@ -1,0 +1,49 @@
+filter_group_name,columns_in_group
+Study Design,In Vitro
+Study Design,Ex Vivo
+Study Design,In Vivo
+Study Design,Clinical
+Study Design,Human Observational
+Study Design,Computational or Meta-analysis
+Study Design,Other Design
+Study Design,Unclear_Study Design
+Species,Rodent
+Species,Human
+Species,Other Mammal
+Species,Bird
+Species,Amphibian
+Species,Fish
+Species,Reptile
+Species,Other Species
+Species,Unclear Species
+Primary MIE,NIS
+Primary MIE,TPO
+Primary MIE,Serum Distributor Proteins
+Primary MIE,TH Membrane Transport Proteins
+Primary MIE,DIO
+Other MIE Pathways,DUOX
+Other MIE Pathways,Apical Iodide Transport
+Other MIE Pathways,IYD
+Other MIE Pathways,NRs
+Other MIE Pathways,Sulfation_Glucuronidation
+Other MIE Pathways,Alanine Side Chain
+Other MIE Pathways,TRHR
+Other MIE Pathways,TSHR
+Other MIE Pathways,TR
+Other MIE Pathways,Other_thyroid_events
+Other MIE Pathways,TH ADME or PBPK
+Other MIE Pathways,Unclear_thyroid_pathway
+Non-Thyroid Pathways,EAS Pathways
+Non-Thyroid Pathways,Chemical_ADME_PBPK
+Non-Thyroid Pathways,Other Biological Events
+Non-Thyroid Pathways,Unclear Biological Events
+Reference Type,Primary
+Reference Type,Gray
+Reference Type,Review
+Reference Type,Database_datastore
+Reference Type,Other Reference Type
+Reference Type,Unclear_ref_type
+Chemical,Chemical Exposure
+Chemical,No_Chemical
+LifeStage,Lifestage Evaluated
+LifeStage,Lifestage Not Evaluated
