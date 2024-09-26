@@ -50,11 +50,3 @@ select = [
     "ARG", # https://beta.ruff.rs/docs/rules/#flake8-unused-arguments-arg
 ]
 
-
-# These are bandit settings you might change per project
-[tool.bandit]
-targets = ["src"]
-exclude_dirs = ["tests", ".venv"]
-
-[tool.mypy]
-disallow_untyped_defs = true
