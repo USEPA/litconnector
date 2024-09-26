@@ -2,6 +2,8 @@
 
 Analysis of literature traditionally involves labor-intensive searches and reviews to identify connections, weigh evidence, and generate hypotheses. To address these challenges, we developed LitConnector, an open-source application that uses semantic relationships from annotated literature to provide an interactive way of reviewing literature collections. This tool enables investigators to focus on relevant subsets and uncover complex thematic connections that might be overlooked through conventional literature search methods. 
 
+**Tags**: systematic evidence mapping, systematic review, evidence synthesis, network analysis, literature review
+
 
 ### Running LitConnector
 
