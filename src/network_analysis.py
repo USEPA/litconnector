@@ -92,7 +92,7 @@ def return_assoc_rules(df, min_support, sort_by, max_len):
     frequent_itemsets = apriori(
         df, min_support=min_support, use_colnames=True, max_len=max_len
     )
-    assoc_rules = association_rules(frequent_itemsets, min_threshold=0)
+    assoc_rules = association_rules(frequent_itemsets, num_itemsets=2, min_threshold=0)
 
     pmi = assoc_rules["support"] / (
         assoc_rules["antecedent support"] * assoc_rules["consequent support"]
